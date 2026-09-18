@@ -86,6 +86,6 @@ This work forms part of the AI semester project for the **Madaraka Estate Web Re
 
 ---
 
-**Course:** ICS 3202 – Artificial Intelligence
-**Institution:** Strathmore University
+**Course:** ICS 3202 – Artificial Intelligence   
+**Institution:** Strathmore University   
 **Academic Year:** 2026
